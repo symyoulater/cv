@@ -1,0 +1,31 @@
+/*-------------Tag Selectors------------*/
+body {
+	margin: 0;
+}
+div {
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+
+h1 {
+	margin-top: 0;
+
+}
+/*-------------Class Selectors------------*/
+
+.topContainer {
+	height: 200px;
+	width: 200px;
+	background-color: #a2b9bc;
+}
+.middleContainer {
+	height: 200px;
+	width: 200px;
+	background-color: #b2ad7f;
+}
+.bottomContainer {
+	height: 200px;
+	width: 200px;
+	background-color: #878f99;
+}

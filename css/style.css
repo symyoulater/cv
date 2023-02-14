@@ -31,7 +31,12 @@ h3 {
 }
 a {
 	color: #11999E;
-
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+a:hover {
+	color: #EAF6F6;
 }
 hr {
 	border: dotted #EAF6F6 6px;
@@ -100,6 +105,10 @@ p {
 .contactMessage {
 	width: 40%;
 	margin: 40px auto 60px;
+}
+.copyright {
+	color: #EAF6F6;
+	font-size: .75rem;
 }
 /*-------------Button------------*/
 
